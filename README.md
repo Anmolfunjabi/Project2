@@ -1,1 +1,1 @@
-This project is build using opencv and skimage in which it takes the input image and form the histogram of oriented gradient.And also detects the face by forming the square over the face and recognize the face of the person and also shows the distances and euclidean distances of the face from the image edges.
+This project displays the current weather of the cities using weather API and stores the collected weather information into a spreadsheet using openpyxl.
