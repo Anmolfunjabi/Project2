@@ -1,1 +1,1 @@
-# face recognition model using opencv which detect the face by forming a square over the face and recognize the face from the existing database.
+This project is build using opencv and skimage in which it takes the input image and form the histogram of oriented gradient.And also detects the face by forming the square over the face and recognize the face of the person and also shows the distances and euclidean distances of the face from the image edges.
